@@ -1,3 +1,5 @@
+https://github.com/openai/interactive-textbook-demo/assets/5464875/750e332e-a53d-43ef-9102-4586fd04da54
+
 # Interactive textbook demo
 
 This repository contains the code for an interactive textbook demo that showcases how OpenAI's technologies can be used to make it more accessible to people with visual disabilities or language and learning barriers. 
